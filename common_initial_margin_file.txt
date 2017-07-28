@@ -6,5 +6,5 @@ SP_SGX_NK0_NK1 99 13 31
 SGX_NK_1 99 3 11
 SGX_IU_0 99 4 2
 SGX_TW_0 99 25 25
-SGX_NK_0 99 1 6 #Comment
+SGX_NK_0 99 3 8 #Comment
 #New Comment
