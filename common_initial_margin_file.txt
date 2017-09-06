@@ -1,5 +1,5 @@
 #=================================================== CME ===================================================#
-6N_0 CME_NZ_DOLLAR 16 15
+6N_0 CME_NZ_DOLLAR 19 15
 C_6N CME_NZ_DOLLAR_COMBINED 50 10
 6A_0 CME_AU_DOLLAR 80 10
 C_6A CME_AU_DOLLAR_COMBINED 75 10
